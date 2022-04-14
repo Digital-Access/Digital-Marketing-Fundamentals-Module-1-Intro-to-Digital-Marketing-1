@@ -16,8 +16,8 @@ const config = {
         "Optimise"
     ],
     correct_text: "Well Done! That's correct!",
-    headerImg_on: false,
-    headerImg: "https://a.storyblok.com/f/112136/130x160/731788149f/avatar_matt-owen.png",
+    headerImg_on: true,
+    headerImg: "https://a.storyblok.com/f/112136/576x544/34a0f96cf5/thinking-8.png",
     reveal_text_on: false,
     reveal_text: "Reveal On",
     reveal_img_on: true,
